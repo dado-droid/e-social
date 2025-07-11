@@ -1,0 +1,23 @@
+<!-- Carte 2 -->
+<div class="card">
+  <h3>Scolarité pour les enfants de Ndangane</h3>
+  <p>Financement des frais scolaires pour 25 enfants du village de Ndangane qui risquent d’abandonner l’école.</p>
+  <p><strong>Collecté :</strong> 1 200 000 FCFA</p>
+  <p><strong>Objectif :</strong> 2 500 000 FCFA</p>
+  <div class="progress">
+    <div class="progress-bar" style="width: 48%;"></div>
+  </div>
+  <a href="#" class="button">Soutenir</a>
+</div>
+
+<!-- Carte 3 -->
+<div class="card">
+  <h3>Construction d’un puits à Kédougou</h3>
+  <p>Aidez-nous à construire un puits pour permettre à 3 villages d’avoir accès à l’eau potable.</p>
+  <p><strong>Collecté :</strong> 2 750 000 FCFA</p>
+  <p><strong>Objectif :</strong> 3 500 000 FCFA</p>
+  <div class="progress">
+    <div class="progress-bar" style="width: 78%;"></div>
+  </div>
+  <a href="#" class="button">Soutenir</a>
+</div>
