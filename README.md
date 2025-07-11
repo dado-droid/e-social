@@ -92,3 +92,18 @@
 
 </body>
 </html>
+    <!-- Carte 3 -->
+    <div class="card">
+      <h3>Construction d’un puits à Kédougou</h3>
+      <p>Aidez-nous à construire un puits pour permettre à 3 villages d’avoir accès à l’eau potable.</p>
+      <p><strong>Collecté :</strong> 2 750 000 FCFA</p>
+      <p><strong>Objectif :</strong> 3 500 000 FCFA</p>
+      <div class="progress">
+        <div class="progress-bar" style="width: 78%;"></div>
+      </div>
+      <a href="#" class="button">Soutenir</a>
+    </div>
+  </div>
+
+</body>
+</html>
